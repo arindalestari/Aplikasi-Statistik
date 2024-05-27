@@ -11,7 +11,7 @@ Good luck and enjoy the features!!
 - Descriptive Statistics
 - Data Presentation 
 - Normality test
-- Appeal Test
+- T Test
 - Correlation Test
 - Regression Test
 
