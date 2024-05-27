@@ -20,3 +20,4 @@ Good luck and enjoy the features!!
 2. Use **rsconnect** makes it easy to publish your Shiny apps from R. Tutorial using **rsconnect** you can access at [Here](https://github.com/rstudio/rsconnect).
 3. After installing, just run the code and you can modify it according to the features you want to added.
 
+For details when you have successfully run the website, you can access it at [Arinda's ApstatAPP](https://arindacintalestari.shinyapps.io/ApstatAPP/).
