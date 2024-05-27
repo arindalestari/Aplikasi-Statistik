@@ -32,8 +32,8 @@ library(lmtest)
 library(car)
 library(corrplot)
 library(olsrr)
-rsconnect::setAccountInfo(name='arindacintalestari', token='CDFDAB4723EBB8FFAB54D23B529C9D50', 
-                          secret='0z8AWDvg7aizV6j7cQdbIQs6iE/b1E3DdUqNl+jC')
+rsconnect::setAccountInfo(name='arindacintalestari', token='CXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX', 
+                          secret='0zxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
 ui <- 
   dashboardPage(
     dashboardHeader(title = "APSTAT APP",
